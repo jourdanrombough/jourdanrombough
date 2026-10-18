@@ -1,4 +1,4 @@
-# Hi, I'm Jourdan Rombough
+# Hi, I'm [Jourdan Rombough](https://optimizationtheory.com/about-jourdan-rombough-seo-web-visibility-expert/)
 
 ### AI Search & GEO Strategist · Technical SEO · 15+ years · Builder of interactive SEO tools
 
@@ -41,7 +41,7 @@ The same curiosity that once had me figuring out how to get a card trick seen st
 
 ## 📫 Let's connect
 
-- 🌐 [optimizationtheory.com](https://optimizationtheory.com)
+- 🌐 [About me on optimizationtheory.com](https://optimizationtheory.com/about-jourdan-rombough-seo-web-visibility-expert/)
 - 💼 [linkedin.com/in/jourdanrombough](https://www.linkedin.com/in/jourdanrombough)
 - ✉️ jourdan@optimizationtheory.com
 
